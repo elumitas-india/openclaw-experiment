@@ -1,0 +1,11 @@
+{
+  "ollama": {
+    "host": "http://localhost:11434",
+    "model": "llama3"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "port": 587,
+    "sender": "rajkumars22official@gmail.com"
+  }
+}
